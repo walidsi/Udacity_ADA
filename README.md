@@ -1,1 +1,1 @@
-# Udacity Advanced Data Analysis Course
+# Projects of Udacity Advanced Data Analysis track
